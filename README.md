@@ -1,15 +1,20 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Overview</h1>
+The insipration to build this dashboard came from Injae Park's work on linkedIn.
+What makes a purpose driven effective dashboard, 3 things come to mind.
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+1. Track metrics that matter and we can be influenced – similar to this dashboard metrics Sales, Customers and Profit. 
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+2. Context is important – how are the metrics progressing overtime in comparison to previous period or target.
+
+3. Breakdown by categorical values - like a sub-category, segment, state... to understand where the bulk and least of the Sales, Profit or Customers come from.
+
+At a quick glance it should provide an insight of what's important to look into, as an example Sub-Category: Machines, has a reduction in sales by 22% from previous year, do we know what has caused it? Perhaps a new competitor? What is the customers feedback? Etc 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools Used Used</h2>
 
-- <b>PowerShell</b> 
+- <b>PowerBI</b> 
 - <b>Diskpart</b>
 
 <h2>Environments Used </h2>
@@ -20,7 +25,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.postimg.cc/qMY5g8J7/Dashboard-image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/gJYM1sDg/Dashboard.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
