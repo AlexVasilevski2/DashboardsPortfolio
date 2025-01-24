@@ -12,7 +12,7 @@ What makes a purpose driven effective dashboard, 3 things come to mind.
 At a quick glance it should provide an insight of what's important to look into, as an example Sub-Category: Machines, has a reduction in sales by 22% from previous year, do we know what has caused it? Perhaps a new competitor? What is the customers feedback? Etc 
 <br />
 
-<h2>Tools Used Used</h2>
+<h2>Tools Used</h2>
 
 - <b>Power BI</b> 
 - <b>Data Modelling</b>
