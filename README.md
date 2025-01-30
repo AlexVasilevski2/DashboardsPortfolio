@@ -20,7 +20,7 @@ The insipration to build this dashboard came from Injae Park's work on native vi
 <h2>Dashboard Image:</h2>
 
 <p align="center"> <br/>
-<img src="https://i.postimg.cc/gJYM1sDg/Dashboard.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/rsm09JdK/Dashboard-image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
