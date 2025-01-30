@@ -25,7 +25,7 @@ The insipration to build this dashboard came from Injae Park's work on native vi
 <br />
 
 
-<h1>Overview</h1>
+<h1>Superstore Performance Dashboard</h1>
 I have built this power bi dashboard that helps in answering the following questions
 
 - What may be the reason for this?
