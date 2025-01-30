@@ -1,4 +1,4 @@
-<h1>Overview</h1>
+<h1>Sales Performance Dashboard</h1>
 What makes a purpose driven effective dashboard, 3 things come to mind.
 
 1. Track metrics that matter and we can be influenced – similar to this dashboard metrics Sales, Customers and Profit. 
@@ -19,19 +19,33 @@ The insipration to build this dashboard came from Injae Park's work on native vi
 
 <h2>Dashboard Image:</h2>
 
-<p align="center">
-Executive Overview: <br/>
+<p align="center"> <br/>
 <img src="https://i.postimg.cc/gJYM1sDg/Dashboard.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h1>Overview</h1>
+I have built this power bi dashboard that helps in answering the following questions
+
+- What may be the reason for this?
+  
+- How satisfied are the customers with the chair purchases?
+  
+- Does our loyalty marketing for chairs differ?
+  
+- Is there added competition in the market?
+  
+- How does out product compare in quality, prices etc..?
+
+I created % growth calculated fields using DAX, which is another way of showing trends. 
+
+I find it useful to spot any trends especially when dealing with high volumes of categorical data like Sub-Categories, products etc. 
+<br />
+
+<h2>Dashboard Image:</h2>
+
+<p align="center"> <br/>
+<img src="https://i.postimg.cc/tTSR4fWs/Superstore.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
